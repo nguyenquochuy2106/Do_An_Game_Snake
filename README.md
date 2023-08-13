@@ -1,5 +1,5 @@
 # Do_An_Game_Snake
-<p>A simple snake game in java</p>
+<p>Một trò chơi rán đơn giản trong Java</p>
 
 <img width="449" alt="image" src="https://github.com/Nam3630/Do_An_Game_Snake/assets/139963009/47cf9969-0a2e-43cd-bcf4-471da9db4ab1">
 
@@ -18,7 +18,7 @@ thường là một hình tròn nhỏ xuất hiện ngẫu nhiên trên màn ch�
 Bạn có thể điều khiển rắn:
 <ul>
   <li>Nhấn phím mũi tên lên: để di chuyển con rắn lên trên.</li>
-  <li>:Nhấn phím mũi tên xuống: để di chuyển con rắn xuống dưới.</li>
+  <li>Nhấn phím mũi tên xuống: để di chuyển con rắn xuống dưới.</li>
   <li>Nhấn phím mũi tên trái: để di chuyển con rắn sang trái.</li>
   <li>Nhấn phím mũi tên phải: để di chuyển con rắn sang phải.</li>
 </ul>
