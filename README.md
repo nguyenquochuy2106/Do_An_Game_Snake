@@ -4,14 +4,21 @@
 <img width="449" alt="image" src="https://github.com/UIT-22730090/SnakeGame/assets/139667613/a3cdc389-7133-490a-9e2c-81d13faccec1">
 
 
-<h2>How To Play</h2>
+<h2>Giới thiệu và cách chơi.</h2>
 
-The objective of the game is to eat as many apples as possible without colliding with the walls or the snake's own body. As the snake eats more apples, it will grow in length and move faster.
+- Giới thiệu đồ họa: Trò chơi rắn thường có một giao diện đồ họa đơn giản 
+nhưng thu hút với góc nhìn từ trên xuống có màn hình kích thước 600 x 600 
+pixel Mỗi ô vuông trong trò chơi có kích thước 25 x 25 pixel làm cho trò 
+chơi trở nên dễ nhìn và dễ điều khiển.
+- Đối tượng chính trong trò chơi là con rắn, được biểu diễn dưới dạng một 
+chuỗi các ô vuông nối tiếp nhau. Khi rắn ăn mồi, đuôi của nó sẽ dài ra. Mồi 
+thường là một hình tròn nhỏ xuất hiện ngẫu nhiên trên màn chơi.
 
-You can control the direction of the snake using the arrow keys on your keyboard:
+Bạn có thể điều khiển rắn:
 <ul>
-  <li>Up: Press the up arrow key to move the snake upwards.</li>
-  <li>Down: Press the down arrow key to move the snake downwards.</li>
-  <li>Left: Press the left arrow key to move the snake to the left.</li>
-  <li>Right: Press the right arrow key to move the snake to the right.</li>
+  <li>Nhấn phím mũi tên lên: để di chuyển con rắn lên trên.</li>
+  <li>:Nhấn phím mũi tên xuống: để di chuyển con rắn xuống dưới.</li>
+  <li>Nhấn phím mũi tên trái: để di chuyển con rắn sang trái.</li>
+  <li>Nhấn phím mũi tên phải: để di chuyển con rắn sang phải.</li>
 </ul>
+
