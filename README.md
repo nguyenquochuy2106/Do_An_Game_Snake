@@ -1,7 +1,8 @@
 # Do_An_Game_Snake
 <p>Một trò chơi rắn đơn giản trong Java</p>
 
-<img width="449" alt="image" src="https://github.com/Nam3630/Do_An_Game_Snake/assets/139963009/47cf9969-0a2e-43cd-bcf4-471da9db4ab1">
+![image](https://github.com/Nam3630/Do_An_Game_Snake/assets/139667613/71fe1d59-a144-401b-9639-17ff0807d447)
+
 
 
 
